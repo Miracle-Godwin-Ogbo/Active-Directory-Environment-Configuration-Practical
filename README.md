@@ -27,7 +27,7 @@ Each sector contains four departmental security groups and their corresponding u
 
 ### Screenshot 01 — Sector Organizational Units
 
-![Organization Units](screenshots/Three-Sector-OUs.png)
+![Organization Units](Three-Sector-OUs.png)
 
 Shows the three sector-based Organizational Units created under the `Godwin.local` domain.
 
