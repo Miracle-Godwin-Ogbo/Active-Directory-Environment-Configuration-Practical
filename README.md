@@ -33,37 +33,37 @@ Shows the three sector-based Organizational Units created under the `Godwin.loca
 
 ### Screenshot 02 — Bank Users and Groups
 
-![Bank-Department](screenshots/Bank-Department.png)
+![Bank-Department](Bank-Department.png)
 
 Shows the users and departmental security groups created under the `OMG-Bank` OU.
 
 ### Screenshot 03 — Bank Group Membership
 
-![Bank-Group-Membership](screenshots/Bank-Department-Users.png)
+![Bank-Group-Membership](Bank-Department-Users.png)
 
 Shows users added to their appropriate Bank departmental security group.
 
 ### Screenshot 04 — Healthcare Users and Groups
 
-![HealthCare-Department](screenshots/HealthCare-Department.png)
+![HealthCare-Department](HealthCare-Department.png)
 
 Shows the users and departmental security groups created under the `OMG-HealthCare` OU.
 
 ### Screenshot 05 — Healthcare Group Membership
 
-![HealthCare-Department-Users](screenshots/HealthCare-Department-Users.png)
+![HealthCare-Department-Users](HealthCare-Department-Users.png)
 
 Shows users added to their appropriate Healthcare departmental security group.
 
 ### Screenshot 06 — University Users and Groups
 
-![University-Department](screenshots/University-Department.png)
+![University-Department](University-Department.png)
 
 Shows the users and departmental security groups created under the `OMG-University` OU.
 
 ### Screenshot 07 — University Group Membership
 
-![University-Department-Users](screenshots/University-Department-Users.png)
+![University-Department-Users](University-Department-Users.png)
 
 Shows users added to their appropriate University departmental security group.
 
@@ -77,19 +77,19 @@ The following setting was disabled:
 
 ### Screenshot 08 — Default Domain Policy
 
-![Default-Domain-Policy](screenshots/Default-Domain-Policy.png)
+![Default-Domain-Policy](Default-Domain-Policy.png)
 
 Shows the Default Domain Policy used for the password configuration.
 
 ### Screenshot 09 — Password Policy
 
-![Password-Policy-Location](screenshots/Password-Policy-Location.png)
+![Password-Policy-Location](Password-Policy-Location.png)
 
 Shows the Password Policy section under Account Policies in the Group Policy Editor.
 
 ### Screenshot 10 — Password Complexity Disabled
 
-![Password-Complexity-Disabled](screenshots/Password-Complexity-Disabled.png)
+![Password-Complexity-Disabled](Password-Complexity-Disabled.png)
 
 Shows that the password complexity requirement was disabled as required by the practical.
 
